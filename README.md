@@ -30,8 +30,13 @@ File Structure
 index.html: The main HTML file containing the structure of the application.
 
 intel.css: The CSS file for styling the application.
+
 intel.js: The JavaScript file for handling the user input and API calls.
+
 How to Use
+
 Open index.html in a web browser.
+
 Enter the name of the city in the input field.
+
 Click the "Enter" button to fetch and display the 7-day weather forecast for the specified city.
