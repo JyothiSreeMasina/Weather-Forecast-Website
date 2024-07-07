@@ -1,5 +1,10 @@
 Weather Forecast Web Application
-This web application provides a 7-day weather forecast for a specified city. Users can enter the name of the city to retrieve and display weather information, including daily high and low temperatures, weather conditions, and icons representing the weather. The application is built with HTML, CSS, and JavaScript, using jQuery for DOM manipulation and fetching data from a weather API.
+
+This web application provides a 7-day weather forecast for a specified city. 
+
+Users can enter the name of the city to retrieve and display weather information,including daily high and low temperatures, weather conditions, and icons representing the weather.
+
+The application is built with HTML, CSS, and JavaScript,using jQuery for DOM manipulation and fetching data from a weather API.
 
 Features
 
